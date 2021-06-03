@@ -33,3 +33,6 @@ Please help in contributing to this list by submitting an [issue](https://github
 ```markdown
 - Paper Name [[pdf]](link) [[code]](link)
 ```
+
+## Other topics
+More interested advanced resources can be found at https://github.com/haofanwang/Awesome-Computer-Vision
