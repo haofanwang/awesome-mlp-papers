@@ -4,29 +4,27 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need
 
-[Can Attention Enable MLPs To Catch Up With CNNs?](https://arxiv.org/abs/2105.15078), CVM 2021, Tsinghua University
+[Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217), Monash University, 2021
 
-[Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217), 2021, Monash University
+[Can Attention Enable MLPs To Catch Up With CNNs?](https://arxiv.org/abs/2105.15078), Tsinghua University, CVM 2021
 
-[Pay Attention to MLPs](https://arxiv.org/abs/2105.08050), 2021, Google Research, [[code](https://github.com/jaketae/g-mlp)]
+[Pay Attention to MLPs](https://arxiv.org/abs/2105.08050), Google Research, 2021, [[code](https://github.com/jaketae/g-mlp)]
 
-[FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/abs/2105.03824), 2021, Google Research, [[code](https://github.com/rishikksh20/FNet-pytorch)]
+[FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/abs/2105.03824), Google Research, 2021, [[code](https://github.com/rishikksh20/FNet-pytorch)]
 
-[ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/abs/2105.03404), CVPR 2021, Facebook AI, [[code]](https://github.com/lucidrains/res-mlp-pytorch)
+[ResMLP: Feedforward networks for image classification with data-efficient training](https://arxiv.org/abs/2105.03404), Facebook AI, CVPR 2021, [[code]](https://github.com/lucidrains/res-mlp-pytorch)
 
-[Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet](https://arxiv.org/abs/2105.02723), 2021, Oxford University,  [[code]](https://github.com/lukemelas/do-you-even-need-attention)
+[Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/abs/2105.03322), Google Research, ACL 2021
 
-[RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition](https://arxiv.org/abs/2105.01883), 2021, Tsinghua University, [[code]](https://github.com/DingXiaoH/RepMLP)
+[Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet](https://arxiv.org/abs/2105.02723), Oxford University, 2021, [[code]](https://github.com/lukemelas/do-you-even-need-attention)
 
-[Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks](https://arxiv.org/abs/2105.02358), 2021, Tsinghua University
+[RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition](https://arxiv.org/abs/2105.01883), Tsinghua University, 2021, [[code]](https://github.com/DingXiaoH/RepMLP)
 
-[MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601), 2021, Google Research, [[code]](https://github.com/lucidrains/mlp-mixer-pytorch)
+[Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks](https://arxiv.org/abs/2105.02358), Tsinghua University, 2021
 
-## Analysis
+[MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601), Google Research, 2021, [[code]](https://github.com/lucidrains/mlp-mixer-pytorch)
 
-[Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/abs/2105.03322), ACL 2021
-
-[Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743), ICML 2021
+[Synthesizer: Rethinking Self-Attention in Transformer Models](https://arxiv.org/abs/2005.00743), Google Research, ICML 2021
 
 
 ## Contributing
