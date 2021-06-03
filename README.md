@@ -35,4 +35,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 ```
 
 ## Other topics
-More interested advanced resources can be found at [Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
+More interested advanced resources collection can be found at [Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision)
