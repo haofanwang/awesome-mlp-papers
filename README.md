@@ -4,6 +4,16 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need
 
+[Rethinking Token-Mixing MLP for MLP-based Vision Backbone](https://arxiv.org/abs/2106.14882), Baidu Research, 2021
+
+[Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition](https://arxiv.org/abs/2106.12368), NUS, 2021
+
+[S2-MLP: Spatial-Shift MLP Architecture for Vision](https://arxiv.org/abs/2106.07477), Baidu Research, 2021
+
+[Graph-MLP: Node Classification without Message Passing in Graph](https://arxiv.org/abs/2106.04051), MegVii Inc, 2021
+
+[Container: Context Aggregation Network](https://arxiv.org/abs/2106.01401), CUHK, 2021
+
 [Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217), Monash University, 2021
 
 [Can Attention Enable MLPs To Catch Up With CNNs?](https://arxiv.org/abs/2105.15078), Tsinghua University, CVM 2021
