@@ -4,6 +4,8 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need
 
+[Global Filter Networks for Image Classification](https://arxiv.org/abs/2107.00645), Tsinghua University, 2021
+
 [Rethinking Token-Mixing MLP for MLP-based Vision Backbone](https://arxiv.org/abs/2106.14882), Baidu Research, 2021
 
 [Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition](https://arxiv.org/abs/2106.12368), NUS, 2021
