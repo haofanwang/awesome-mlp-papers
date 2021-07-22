@@ -4,6 +4,12 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need
 
+[CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224), SenseTime Research, 2021
+
+[AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391), ShanghaiTech University, 2021
+
+[PC-MLP: Model-based Reinforcement Learning with Policy Cover Guided Exploration](https://arxiv.org/abs/2107.07410), CMU, ICML 2021
+
 [Global Filter Networks for Image Classification](https://arxiv.org/abs/2107.00645), Tsinghua University, 2021
 
 [Rethinking Token-Mixing MLP for MLP-based Vision Backbone](https://arxiv.org/abs/2106.14882), Baidu Research, 2021
