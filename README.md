@@ -4,7 +4,7 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need
 
-[CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224), SenseTime Research, 2021
+[CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224), The University of Hong Kong, 2021, [[code](https://github.com/ShoufaChen/CycleMLP)]
 
 [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391), ShanghaiTech University, 2021
 
