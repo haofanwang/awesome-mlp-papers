@@ -2,7 +2,7 @@
 An up-to-date list of MLP-based paper without attention! Maintained by [Haofan Wang](https://haofanwang.github.io/) (haofanwang.ai@gmail.com).
 
 
-## MLP is all you Need
+## MLP is all you Need (The topper, the newer!)
 
 [Sparse-MLP: A Fully-MLP Architecture with Conditional Computation](https://arxiv.org/abs/2109.02008), NUS, 2021
 
