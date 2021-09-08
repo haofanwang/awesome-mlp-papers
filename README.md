@@ -4,6 +4,8 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need
 
+[Sparse-MLP: A Fully-MLP Architecture with Conditional Computation](https://arxiv.org/abs/2109.02008), NUS, 2021
+
 [Hire-MLP: Vision MLP via Hierarchical Rearrangement](https://arxiv.org/abs/2108.13341), Noah’s Ark Lab, Huawei Technologies, 2021
 
 [RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision?](https://arxiv.org/abs/2108.04384), Rikkyo University, 2021
