@@ -4,6 +4,8 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need (The topper, the newer!)
 
+[ConvMLP: Hierarchical Convolutional MLPs for Vision](https://arxiv.org/pdf/2109.04454.pdf), University of Oregon, 2021
+
 [Axial-MLP for automatic segmentation of choroid plexus in multiple sclerosis](https://arxiv.org/pdf/2109.03778.pdf), Paris Brain Institute - Inria, 2021
 
 [Sparse-MLP: A Fully-MLP Architecture with Conditional Computation](https://arxiv.org/abs/2109.02008), NUS, 2021
