@@ -4,6 +4,8 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need (The topper, the newer!)
 
+[MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing]([https://arxiv.org/pdf/2201.02973.pdf](https://openaccess.thecvf.com/content/CVPR2022/html/Qiu_MLP-3D_A_MLP-Like_3D_Architecture_With_Grouped_Time_Mixing_CVPR_2022_paper.html)), JD AI Research, CVPR 2022
+
 [MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/pdf/2201.02973.pdf), Google Research, UT-Austin, 2022
 
 [ConvMLP: Hierarchical Convolutional MLPs for Vision](https://arxiv.org/pdf/2109.04454.pdf), University of Oregon, 2021
