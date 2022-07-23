@@ -4,6 +4,8 @@ An up-to-date list of MLP-based paper without attention! Maintained by [Haofan W
 
 ## MLP is all you Need (The topper, the newer!)
 
+[MotionMixer: MLP-based 3D Human Body Pose Forecasting](https://www.ijcai.org/proceedings/2022/0111.pdf), Mercedes-Benz AG, [code](https://github.com/MotionMLP/MotionMixer), IJCAI 2022 Oral.
+
 [MLP-3D: A MLP-like 3D Architecture with Grouped Time Mixing](https://openaccess.thecvf.com/content/CVPR2022/html/Qiu_MLP-3D_A_MLP-Like_3D_Architecture_With_Grouped_Time_Mixing_CVPR_2022_paper.html), JD AI Research, CVPR 2022
 
 [MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/pdf/2201.02973.pdf), Google Research, UT-Austin, 2022
